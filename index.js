@@ -1,9 +1,4 @@
-// Code your solutions in this file
-// for (let age = 30; age < 40; age++) {
-//     console.log(`I'm ${age} years old. Happy birthday to me!`);
-//     debugger;
-//   }
-// let names = ['bob', 'mary', 'milly']
+
 function writeCards(names, event){
     let newArry = [];
     for (let i= 0; i < names.length; i++) {
